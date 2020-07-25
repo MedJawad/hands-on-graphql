@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "mohamed jawad",
+      "email": "sqd@qsd.com",
+      "age": 21
+    },
+    {
+      "id": "2",
+      "name": "mohamed Said",
+      "email": "www@qsd.com",
+      "age": 22
+    },
+    {
+      "id": "3",
+      "name": "Brahim jawad",
+      "email": "xxx@qsd.com",
+      "age": 23
+    },
+    {
+      "name": "harry white",
+      "email": "harr@gmail.com",
+      "age": 26,
+      "id": "jmaAt3l"
+    }
+  ]
+}
